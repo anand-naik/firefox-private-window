@@ -1,0 +1,6 @@
+node_modules/
+
+# Temporary Cypress files
+cypress/downloads
+cypress/screenshots
+cypress/videos
